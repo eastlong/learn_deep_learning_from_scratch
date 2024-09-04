@@ -1,0 +1,2 @@
+# learn_deep_learning_from_scratch
+学习笔记：深度学习入门—基于Python的理论与实现
